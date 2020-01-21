@@ -1,0 +1,6 @@
+Apples 
+10 10.25
+Banans 
+15 4.56
+Grapes
+8 9.55
